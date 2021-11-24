@@ -3,7 +3,7 @@
 👀 I'm interested in web Development <br />
 🌱 I’m a Full Stack Web Developer  <br />
 💞️ I’m looking to collaborate on new projects and I am searching for freelance opportunities <br />
-📫 I can be reached via email chedlijenhani@gmail.com or by cell phone on +216 2à 410 944 <br />
+📫 I can be reached via email chedlijenhani@gmail.com or by cell phone on +216 20 410 944 <br />
 <!--
 **JenhaniChedli/JenhaniChedli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
