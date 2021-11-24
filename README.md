@@ -1,5 +1,9 @@
-### Hi there 👋
 
+👋 Hi, I’m @Jenhani_Chedli
+👀 I'm interested in web Development
+🌱 I’m a Full Stack Web Developer (Angular-SpringBoot)
+💞️ I’m looking to collaborate on new projects and I am searching for freelance opportunities
+📫 I can be reached via email chedlijenhani@gmail.com or by cell phone on +216 2à 410 944
 <!--
 **JenhaniChedli/JenhaniChedli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
